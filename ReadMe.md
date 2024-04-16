@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Front end<br>👯 Estou a procura de estagio <br>⚡ 22y
+🔭 Estudante de back end<br>👯 Estou a procura de estagio <br>⚡ 23y
 
 
 ## 🌐 Socials:
